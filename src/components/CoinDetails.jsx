@@ -171,4 +171,5 @@ const CustomBar=({high,low})=>{
   )
 }
 
+
 export default CoinDetails
